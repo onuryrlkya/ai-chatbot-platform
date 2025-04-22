@@ -2,7 +2,7 @@
 
 This project is a fully frontend-based **Multi-AI Chat** application that provides access to multiple artificial intelligence (AI) models through a single interface.  
 Users can select the AI model they want to interact with, send queries, and instantly view responses.  
-**No backend is used** – all API calls are made directly from the frontend.
+**No backend is used** – all API calls are made directly from the frontend..
 
 > 👨‍💻 **Developer**: [Onur Yerlikaya](https://github.com/onuryerlikaya)
 
