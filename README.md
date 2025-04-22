@@ -31,7 +31,8 @@ Users can select the AI model they want to interact with, send queries, and inst
 
 ## 📷 Screenshots
 
-Soon.
+![Main Interface](./1.png)
+![AI Chat Example](./2.png)
 
 ---
 
