@@ -1,4 +1,4 @@
-# 🤖 Multi-AI Chat Platform (Frontend Only)
+# 🤖 Multi-AI Chat Platform 
 
 This project is a fully frontend-based **Multi-AI Chat** application that provides access to multiple artificial intelligence (AI) models through a single interface.  
 Users can select the AI model they want to interact with, send queries, and instantly view responses.  
@@ -31,7 +31,7 @@ Users can select the AI model they want to interact with, send queries, and inst
 
 ## 📷 Screenshots
 
-> (Optional: Add screenshots to the `./screenshots/` folder to use this section.)
+Soon.
 
 ---
 
